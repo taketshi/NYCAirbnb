@@ -27,4 +27,4 @@ _analysis.ipynb_: This notebook contains all the data cleaning, analysis and pre
 - seaborn
 - sklearn
 - gender_guesser
-(- geopy: ont needed, was use to retrieve geocoordinates)
+- geopy: not required to run the notebook, was use to retrieve geocoordinates
