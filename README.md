@@ -1,4 +1,5 @@
 # NYCAirbnb
+
 ## Motivation
 This project was done in order to understand the distribution and prices of Airbnb in the city of New York.
 
