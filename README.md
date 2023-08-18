@@ -15,12 +15,10 @@ Data:
 - _airbnb_room_type.xlsx_
 
 Geocoordinates:
-
-_geocoordinates.json_: It was calculated the geocoordinates from place name. To avoid recalculation, it was saved here.
+- _geocoordinates.json_: It was calculated the geocoordinates from place name. To avoid recalculation, it was saved here.
 
 Notebook:
-
-_analysis.ipynb_: This notebook contains all the data cleaning, analysis and prediction.
+- _analysis.ipynb_: This notebook contains all the data cleaning, analysis and prediction.
 
 ## Packages
 - pandas
